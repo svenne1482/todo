@@ -1,0 +1,9 @@
+.Kanban{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.TodoLists{
+    display: flex;
+    justify-content: space-evenly;
+}
